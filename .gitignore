@@ -1,0 +1,12 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Don't commit live skill drafts unless explicitly versioned
+skills/*.draft.md
